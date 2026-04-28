@@ -1,2 +1,2 @@
 # SOC
-Security lab + SOC portfolio (Grey → Blue progression)
+Security lab + SOC portfolio 
